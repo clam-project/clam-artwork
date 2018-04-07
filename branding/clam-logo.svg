@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="256"
+   viewBox="0 0 512 256"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="clam-logo.svg"
+   inkscape:export-filename="/home/vokimon/Documentos/clam-logo.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
+  <title
+     id="title4889">CLAM Logo 2018</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-172.62322"
+     inkscape:cy="84.162836"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs90">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4719">
+      <stop
+         style="stop-color:#c2936b;stop-opacity:1"
+         offset="0"
+         id="stop4715" />
+      <stop
+         style="stop-color:#e2c391;stop-opacity:1"
+         offset="1"
+         id="stop4717" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4705">
+      <stop
+         style="stop-color:#a7b4bb;stop-opacity:1"
+         offset="0"
+         id="stop4701" />
+      <stop
+         style="stop-color:#d3efed;stop-opacity:1"
+         offset="1"
+         id="stop4703" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4705"
+       id="linearGradient4707"
+       x1="39.594425"
+       y1="133.33305"
+       x2="220.61732"
+       y2="49.171265"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4719"
+       id="linearGradient4721"
+       x1="39.654846"
+       y1="157.17488"
+       x2="181.87122"
+       y2="208.26335"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata93">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CLAM Logo 2018</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>David García Garzón</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CLAM-Project.org</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fill"
+     style="display:inline">
+    <path
+       style="fill:url(#linearGradient4707);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.807612,142.76777 C 39.545942,94.33095 89.449008,13.815927 220.61732,49.171266 200.81833,82.051731 123.69164,155.49568 20.807612,142.76777 Z"
+       id="path4699"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:url(#linearGradient4721);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 208.24295,223.64987 C 179.0748,171.8543 128.9684,147.99449 101.11627,138.4435 c -25.632621,7.07106 -47.906484,9.72272 -77.604969,8.3085 3.712311,14.67247 64.321362,77.78175 184.731649,76.89787 z"
+       id="path4713"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Contour"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 163.79883,31.410156 C 110.33356,31.744823 54.8616,40.11639 20.807612,142.76777 56.162951,211.71067 146.95118,228.90265 219.55664,230.54492 192.38147,176.51428 136.88101,145.32686 113.16992,138.54297 171.15731,118.68614 229.98181,78.78377 238.75781,46.767578 217.59128,38.975707 191.80445,31.234855 163.79883,31.410156 Z m -13.21875,12.800782 c 12.58324,-0.0011 24.90387,1.421578 36.39648,3.43164 -30.2542,38.483993 -69.07259,60.353942 -154.501686,92.650312 1.060895,-3.23852 -0.307179,-5.65788 0.83372,-8.69523 34.911895,-15.69189 86.447246,-48.242256 105.916016,-86.966801 3.79843,-0.277789 7.58899,-0.41959 11.35547,-0.419921 z m -19.78516,1.292968 C 119.89975,68.937094 80.821443,104.50766 35.1875,126.75781 57.752418,70.824022 94.142691,50.435683 130.79492,45.503906 Z m 64.34375,3.705078 C 201.05232,50.409948 206.72445,51.70633 212,53 192.13141,87.413396 128.44717,145.83213 37.390625,141.47656 60.165214,132.19334 147.30477,107.68113 195.13867,49.208984 Z m -93.36328,92.986326 c 44.77764,12.10965 72.66134,42.72474 94.09375,74.91407 -69.73464,0.34521 -153.127561,-41.10551 -160.132471,-67.41602 19.397914,3.2971 40.722902,0.0114 66.038721,-7.49805 z"
+       id="path171"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccssccccsccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Letters">
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10.9617033;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 362.52649,165.07132 c -18.43764,5.54654 -39.8779,8.73078 -57.23048,12.99829 18.42847,-2.56069 37.32824,-2.56158 55.66222,-4.75025 0.43082,-2.1671 3.52906,-7.11793 1.56826,-8.24804 z"
+       id="path4807"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10.9617033;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 236.15906,119.55815 c 0.1325,32.3594 -2.18969,64.8834 -3.01071,97.30653 15.45057,-1.4514 30.90115,-2.90278 46.35172,-4.35418 1.73504,-5.48228 4.45443,-10.60682 6.05356,-16.13479 -14.32252,3.49138 -28.48104,10.00062 -42.90746,11.57991 -9.20886,-7.28626 -0.80344,-19.20167 -1.74202,-28.5964 2.17372,-18.49776 4.71112,-37.22043 6.6582,-55.57802 -3.83422,-1.26878 -7.35024,-3.7271 -11.40329,-4.22305 z"
+       id="path4801"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10.9617033;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 357.75391,115.8543 c -6.45071,0.44315 -5.31141,9.52263 -9.16601,13.22787 -15.41101,30.20771 -36.93859,70.7234 -46.47213,90.76379 9.69126,2.27991 11.1067,-14.52782 16.73316,-21.08353 12.57939,-22.87689 25.15877,-45.75375 37.73816,-68.63063 6.30997,-4.45044 12.24959,4.63328 10.15081,10.4907 -3.00892,22.3805 -2.98639,45.16961 -5.16662,67.70945 -0.25587,3.08226 -2.32488,13.97984 2.86241,9.58447 2.09561,-14.72819 1.02162,-30.03497 2.2623,-44.95326 0.57776,-18.63133 1.87456,-37.93213 2.00625,-56.14811 -3.6662,-0.1188 -7.27189,-1.0869 -10.94833,-0.96075 z"
+       id="path4803"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:10.9617033;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 478.06594,116.59201 c -6.68767,7.07654 -11.81858,17.80124 -11.81858,17.80124 -7.03465,13.25195 -12.53934,29.96391 -21.52635,41.66679 -8.26076,3.03479 -9.32996,-5.09372 -11.18163,-12.60515 -3.08171,-15.47369 -8.56738,-30.96488 -12.22755,-46.13763 0,0 -13.30593,-4.50678 -13.58973,3.98753 -5.60211,29.28553 -14.75317,67.03002 -18.24096,86.96303 0,0 10.59027,1.48474 9.40684,-5.55846 2.43038,-21.61178 5.37992,-43.19715 8.00985,-64.79877 4.18375,-6.44587 13.05807,-0.33167 13.41577,5.8475 3.32366,14.36403 9.5394,28.08637 14.04202,41.94671 5.00879,1.95121 11.37101,2.92785 14.29892,-3.57272 6.41937,-12.61482 11.10641,-26.84429 18.581,-38.47551 6.16912,-3.13667 10.97932,5.73401 8.60114,11.0766 -4.40689,21.17722 -5.72943,42.96621 -9.30247,64.35986 5.75891,3.50766 8.67784,-3.15259 7.61646,-7.88675 2.06545,-31.3034 6.56203,-63.31542 8.49425,-94.14326 -1.49559,-0.35301 -3.03981,-0.57273 -4.57898,-0.47101 z"
+       id="path4805"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Original Raster"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/vokimon/Imágenes/clam-logo.jpeg"
+       y="27"
+       x="7"
+       id="image168"
+       xlink:href="file:///home/vokimon/Im%C3%A1genes/clam-logo.jpeg"
+       preserveAspectRatio="none"
+       height="225"
+       width="225" />
+  </g>
+</svg>

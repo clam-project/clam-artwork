@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256px"
+   height="256px"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="clam-icon.svg"
+   inkscape:export-filename="/home/vokimon/Documentos/clam-icon.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="127.60285"
+     inkscape:cy="78.859535"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs90">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4719">
+      <stop
+         style="stop-color:#c2936b;stop-opacity:1"
+         offset="0"
+         id="stop4715" />
+      <stop
+         style="stop-color:#e2c391;stop-opacity:1"
+         offset="1"
+         id="stop4717" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4705">
+      <stop
+         style="stop-color:#a7b4bb;stop-opacity:1"
+         offset="0"
+         id="stop4701" />
+      <stop
+         style="stop-color:#d3efed;stop-opacity:1"
+         offset="1"
+         id="stop4703" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4705"
+       id="linearGradient4707"
+       x1="39.594425"
+       y1="133.33305"
+       x2="220.61732"
+       y2="49.171265"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4719"
+       id="linearGradient4721"
+       x1="39.654846"
+       y1="157.17488"
+       x2="181.87122"
+       y2="208.26335"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata93">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fill"
+     style="display:inline">
+    <path
+       style="fill:url(#linearGradient4707);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.807612,142.76777 C 39.545942,94.33095 89.449008,13.815927 220.61732,49.171266 200.81833,82.051731 123.69164,155.49568 20.807612,142.76777 Z"
+       id="path4699"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:url(#linearGradient4721);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 208.24295,223.64987 C 179.0748,171.8543 128.9684,147.99449 101.11627,138.4435 c -25.632621,7.07106 -47.906484,9.72272 -77.604969,8.3085 3.712311,14.67247 64.321362,77.78175 184.731649,76.89787 z"
+       id="path4713"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Contour"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;fill:#241f1c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 163.79883,31.410156 C 110.33356,31.744823 51.710653,53.178069 13.767578,143.45508 49.122917,212.39798 146.95118,228.90265 219.55664,230.54492 192.38147,176.51428 136.88101,145.32686 113.16992,138.54297 171.15731,118.68614 229.98181,78.78377 238.75781,46.767578 217.59128,38.975707 191.80445,31.234855 163.79883,31.410156 Z m -13.21875,12.800782 c 12.58324,-0.0011 24.90387,1.421578 36.39648,3.43164 C 156.72236,86.126571 115.4291,108.70363 30,141 c 1.060895,-3.23852 2.167695,-6.36499 3.308594,-9.40234 34.911895,-15.69189 86.447246,-48.242256 105.916016,-86.966801 3.79843,-0.277789 7.58899,-0.41959 11.35547,-0.419921 z m -19.78516,1.292968 C 119.89975,68.937094 80.821443,104.50766 35.1875,126.75781 57.752418,70.824022 94.142691,50.435683 130.79492,45.503906 Z m 64.34375,3.705078 C 201.05232,50.409948 206.72445,51.70633 212,53 192.13141,87.413396 128.44717,145.83213 37.390625,141.47656 60.165214,132.19334 147.30477,107.68113 195.13867,49.208984 Z m -93.36328,92.986326 c 44.77764,12.10965 72.66134,42.72474 94.09375,74.91407 -69.73464,0.34521 -156.309542,-41.10551 -163.314452,-67.41602 19.397914,3.2971 43.904883,0.0114 69.220702,-7.49805 z"
+       id="path171"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Letters" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Original Raster"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/vokimon/Imágenes/clam-logo.jpeg"
+       y="27"
+       x="7"
+       id="image168"
+       xlink:href="file:///home/vokimon/Im%C3%A1genes/clam-logo.jpeg"
+       preserveAspectRatio="none"
+       height="225"
+       width="225" />
+  </g>
+</svg>
