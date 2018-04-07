@@ -9,6 +9,9 @@ used for CLAM projects.
 |:-:|:-:|:-:|
 | Icon 2018 | Logo 2018 | Ink 2018 |
 
+|<img title='CLAM lema 2018' src='branding/clam-lema.svg' height='128' />|
+|:-:|
+| Lema 2018 |
 
 ## Legacy
 
