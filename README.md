@@ -13,5 +13,5 @@ used for CLAM projects.
 ## Legacy
 
 |<img title='CLAM logo 200x' src='legacy/clamlogo.jpg' height='128' />
-|:-:|:-:|:-:|
+|:-:|
 | Icon 200x |
